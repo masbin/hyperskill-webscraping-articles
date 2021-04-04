@@ -4,7 +4,7 @@ Web Scraping project built as part of hyperskill
 ##Scraping nature.com articles
 Find articles based on specified category, save them in txt within folder of pages
 
-###Objectives
+###Objective
 This is a web scrapper for https://www.nature.com/nature/articles that take two parameters from the user input:
  1. the number of pages (an integer) and 
  2. the type of articles (a string). 
@@ -23,11 +23,12 @@ The greater-than symbol followed by a space (> ) represents the user input. Note
 ' > 4
 
 ' > Nature Briefing
+' > Articles Downloaded Successfully
 
 
 Modules used:
 - BeautifulSoup
 - Requests
 - os
-details can be seen in requirement.txt
+details can be seen in requirements.txt
 
